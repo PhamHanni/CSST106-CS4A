@@ -29,8 +29,4 @@ The objective of this project is to:
   - Use of image processing for lane detection, obstacle identification, and decision-making in real-time.
 - **Emerging Technique: Deep Learning-Based Image Analysis**:
   - The role of deep learning, especially Convolutional Neural Networks (CNNs), in transforming image processing in AI.
-
-## How to View the Presentation
-- You can download the **PowerPoint Presentation** from this repository.
-- Click on the image above to watch the **video walkthrough** of the presentation.
-
+    
