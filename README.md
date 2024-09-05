@@ -29,7 +29,7 @@ In this notebook, you will find:
 The Colab notebook provides a step-by-step demonstration of basic image processing techniques. By running the code, you can experiment with applying filters, detecting edges, and segmenting images. These processes are critical in enabling AI systems to interpret visual data more effectively. The notebook includes both the code and explanations for how these techniques are implemented and how they contribute to solving real-world visual problems.
 
 ## Video Preview
-[![Watch the video](thumbnail.jpg)](4A-PANTANOZA-MP1.mp4)
+[![Watch the video](./thumbnail.png)](./4A-PANTANOZA-MP1.mp4)
 
 *Click the image above to watch the video presentation.*
 
@@ -47,3 +47,4 @@ The Colab notebook provides a step-by-step demonstration of basic image processi
 ## How to View the Presentation
 - You can download the **PowerPoint Presentation** from this repository.
 - Click on the image above to watch the **video walkthrough** of the presentation.
+
