@@ -18,7 +18,7 @@ The objective of this project is to:
 ## Image Processing Implementation
 You can explore the implementation of image processing techniques, such as edge detection and segmentation, through this interactive Google Colab notebook:
 
-[Click here to view the Colab implementation](https://colab.research.google.com/drive/1TKs7CWm16TnMMbWZUDvIdpy7N1DheJZ8?usp=sharing)
+[![Watch the video](./thumbnail.png)](https://youtu.be/-Ni0ZAvTJk8)
 
 In this notebook, you will find:
 - **Edge Detection**: The Canny edge detection algorithm applied to a sample image to identify the boundaries and edges of objects within the image.
