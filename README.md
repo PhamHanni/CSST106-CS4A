@@ -48,3 +48,55 @@ The Colab notebook provides a step-by-step demonstration of basic image processi
 - You can download the **PowerPoint Presentation** from this repository.
 - Click on the image above to watch the **video walkthrough** of the presentation.
 
+
+# Image Processing with OpenCV
+
+## Introduction
+
+In this repository, we explore various image processing techniques using OpenCV, a powerful library for computer vision. This script allows you to perform a range of operations on images, from basic transformations to advanced filtering and edge detection. Below, we provide an overview of the capabilities demonstrated:
+
+### Image Display
+
+We start by providing functions to display images using matplotlib. These functions allow you to visualize single images or compare two images side by side.
+
+### Image Upload and Conversion
+
+You can upload an image from Google Colab and convert it into a format suitable for OpenCV processing. This step is essential for performing subsequent image manipulations.
+
+### Basic Image Transformations
+
+- **Scaling**: Adjust the size of the image by a specified factor.
+- **Rotation**: Rotate the image by a given angle.
+
+### Blurring Techniques
+
+- **Gaussian Blur**: Smoothens the image to reduce noise and detail.
+- **Median Blur**: Applies median filtering to remove salt-and-pepper noise.
+- **Bilateral Filter**: Reduces noise while preserving edges, making it ideal for noise reduction without losing detail.
+- **Box Filter**: Averages pixel values within a specified kernel size for smoothing.
+- **Motion Blur**: Simulates the effect of motion blur by applying a linear kernel.
+
+### Edge Detection
+
+- **Canny Edge Detection**: Identifies edges in an image by detecting areas of rapid intensity change.
+- **Sobel Edge Detection**: Uses the Sobel operator to detect edges by computing gradient magnitudes.
+- **Laplacian Edge Detection**: Finds edges by applying the Laplacian operator, which highlights areas of rapid intensity change.
+- **Prewitt Edge Detection**: Utilizes the Prewitt operator to detect edges in the x and y directions.
+
+### Sharpening
+
+- **Unsharp Masking**: Enhances image sharpness by subtracting a blurred version from the original image.
+
+### Interactive Processing
+
+Users can interactively choose an image transformation to apply from a predefined list, including scaling, rotation, various blurring techniques, and edge detection methods.
+
+### Comparison Visualization
+
+The script concludes by displaying the original and processed images for easy comparison, allowing you to assess the effects of each transformation visually.
+
+This script provides a comprehensive toolkit for image processing, making it an invaluable resource for tasks such as image enhancement, noise reduction, and feature extraction.
+
+### Step by Step Process on how to do it.
+
+
