@@ -97,6 +97,8 @@ The script concludes by displaying the original and processed images for easy co
 
 This script provides a comprehensive toolkit for image processing, making it an invaluable resource for tasks such as image enhancement, noise reduction, and feature extraction.
 
-### Step by Step Process on how to do it.
+### Step by Step Process on how to apply this Image Processing techniques
+
+Ipynb notebook file:
 
 
