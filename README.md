@@ -99,6 +99,6 @@ This script provides a comprehensive toolkit for image processing, making it an 
 
 ### Step by Step Process on how to apply this Image Processing techniques
 
-Ipynb notebook file:
+Ipynb notebook file: "https://github.com/PhamHanni/CSST106-CS4A/blob/main/Pantanoza_Exer1_Image_Processing_Techniques.ipynb"
 
 
