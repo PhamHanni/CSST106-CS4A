@@ -103,7 +103,7 @@ Ipynb notebook file: "https://github.com/PhamHanni/CSST106-CS4A/blob/main/Pantan
 
 # Image Processing Techniques using OpenCV MP2
 
-##Overview
+## Overview
 This script demonstrates basic image processing techniques using OpenCV, including image scaling, rotation, blurring, and edge detection. These operations are fundamental in computer vision and image processing tasks and are commonly used in various applications, such as enhancing images, detecting objects, and preparing images for further analysis.
 
 Here is the the documentation : https://github.com/PhamHanni/CSST106-CS4A/blob/main/4A-Pantanoza-MP2.pdf
@@ -127,10 +127,10 @@ Original Image: Displays the original image loaded from the specified path.
   
 ## Functions Overview
 
--**scale_image()**: Resizes the image to new dimensions based on scale_x and scale_y. Useful for enlarging or shrinking images.
--**rotate_image()**: Rotates the image around its center. Commonly used for adjusting image orientation.
--**blur_image()**: Smoothens the image to reduce noise and detail. This is useful for preprocessing steps in computer vision.
--**detect_edges()**: Identifies edges in the image, highlighting areas of high intensity change, which is useful for object detection and image segmentation.
+- **scale_image()**: Resizes the image to new dimensions based on scale_x and scale_y. Useful for enlarging or shrinking images.
+- **rotate_image()**: Rotates the image around its center. Commonly used for adjusting image orientation.
+- **blur_image()**: Smoothens the image to reduce noise and detail. This is useful for preprocessing steps in computer vision.
+- **detect_edges()**: Identifies edges in the image, highlighting areas of high intensity change, which is useful for object detection and image segmentation.
 
 ## Additional Tips
 
