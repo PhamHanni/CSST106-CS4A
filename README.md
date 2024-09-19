@@ -101,4 +101,20 @@ This script provides a comprehensive toolkit for image processing, making it an 
 
 Ipynb notebook file: "https://github.com/PhamHanni/CSST106-CS4A/blob/main/Pantanoza_Exer1_Image_Processing_Techniques.ipynb"
 
+# Image Processing Techniques using OpenCV
+
+## Script Usage
+The script performs the following image processing techniques:
+
+- **Scaling**: Resizes the image based on specified scaling factors.
+- **Rotation**: Rotates the image by a specified angle.
+- **Blurring**: Applies a Gaussian blur to the image to reduce noise.
+- **Edge Detection**: Detects edges in the image using the Canny edge detection algorithm.
+
+## How to Run the Script
+1. Save the script in a Python file, e.g., `image_processing.py`.
+2. Place an image in the same directory or specify the correct path to the image in the code.
+3. Run the script using:
+
+
 
