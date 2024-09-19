@@ -1,4 +1,4 @@
-# Exploring the Role of Computer Vision and Image Processing in AI
+# Exploring the Role of Computer Vision and Image Processing in AI MP1
 
 ## Overview
 This project explores the critical role of **computer vision** and **image processing** in Artificial Intelligence (AI). It covers essential image processing techniques, case studies, and practical implementations that demonstrate how AI systems interpret and analyze visual data.
@@ -101,8 +101,12 @@ This script provides a comprehensive toolkit for image processing, making it an 
 
 Ipynb notebook file: "https://github.com/PhamHanni/CSST106-CS4A/blob/main/Pantanoza_Exer1_Image_Processing_Techniques.ipynb"
 
-# Image Processing Techniques using OpenCV
+# Image Processing Techniques using OpenCV MP2
 
+##Overview
+This script demonstrates basic image processing techniques using OpenCV, including image scaling, rotation, blurring, and edge detection. These operations are fundamental in computer vision and image processing tasks and are commonly used in various applications, such as enhancing images, detecting objects, and preparing images for further analysis.
+
+Here is the the documentation : https://github.com/PhamHanni/CSST106-CS4A/blob/main/4A-Pantanoza-MP2.pdf
 ## Script Usage
 The script performs the following image processing techniques:
 
@@ -111,10 +115,21 @@ The script performs the following image processing techniques:
 - **Blurring**: Applies a Gaussian blur to the image to reduce noise.
 - **Edge Detection**: Detects edges in the image using the Canny edge detection algorithm.
 
-## How to Run the Script
-1. Save the script in a Python file, e.g., `image_processing.py`.
-2. Place an image in the same directory or specify the correct path to the image in the code.
-3. Run the script using:
+##Expected Output
+Original Image: Displays the original image loaded from the specified path.
+- **Scaled Image**: Displays the image resized based on the scaling factors.
+- **Rotated Image**: Displays the image rotated by the specified angle.
+- **Blurred Image**: Displays the image after applying Gaussian blur.
+- **Edge Detection**: Displays the edges detected in the image using the Canny algorithm.
+  
+##Functions Overview
+-**scale_image()**: Resizes the image to new dimensions based on scale_x and scale_y. Useful for enlarging or shrinking images.
+-**rotate_image()**: Rotates the image around its center. Commonly used for adjusting image orientation.
+-**blur_image()**: Smoothens the image to reduce noise and detail. This is useful for preprocessing steps in computer vision.
+-**detect_edges()**: Identifies edges in the image, highlighting areas of high intensity change, which is useful for object detection and image segmentation.
 
+##Additional Tips
+You can adjust the parameters of each function to customize the effects according to your needs.
+Make sure your input images are in the correct path and format; otherwise, OpenCV will not be able to load them.
 
-
+Here is the g-colab documentation : https://colab.research.google.com/drive/1kfogc5ZJpUXp8rVrPMGUMlkCGwiD_sjf#scrollTo=zgeXI7rfSCGr
